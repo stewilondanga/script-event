@@ -54,12 +54,12 @@ body {
   margin: 20px 0;
 }
 
-/*#getKeyCode {
+#getKeyCode {
   color: red;
   font-weight: bold;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
