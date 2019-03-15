@@ -1,12 +1,12 @@
 var navigate = (function() {
-	$('.dd').toggle();
-	$('.dd_btn').click(function() {
-		var dataName = $(this).attr('data-name');
-		$('.dd').hide();
-		$('.' + dataName).toggle();
-	});
+  $('.dd').toggle();
+  $('.dd_btn').click(function() {
+    var dataName = $(this).attr('data-name');
+    $('.dd').hide();
+    $('.' + dataName).toggle();
+  });
 })();
-function changeFruit() {
+/*function changeFruit() {
   var selectedFruit = document.getElementById("myFruit").value;
   document.getElementById("selectedFruit").innerHTML = selectedFruit;
 }
