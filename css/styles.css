@@ -50,11 +50,11 @@ body {
   padding: 10px;
 }
 
-/*.keycode {
+.keycode {
   margin: 20px 0;
 }
 
-#getKeyCode {
+/*#getKeyCode {
   color: red;
   font-weight: bold;
 }
