@@ -16,11 +16,11 @@ function clickButton() {
   document.getElementById('box').classList.toggle('rotatedBox');
 }
 
-/*function showSecretMessage() {
+function showSecretMessage() {
   alert('I am the secret message');
 }
 
-function getKeyCode(e) {
+/*function getKeyCode(e) {
 
   document.getElementById("getKeyCode").innerHTML = e.keyCode+" ";
 
