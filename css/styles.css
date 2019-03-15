@@ -37,14 +37,14 @@ body {
   cursor: pointer;
 }
 
-/*.intro {
+.intro {
   border: 1px solid #000;
   background-color: #FFED4B;
   color: #000;
   padding: 10px;
 }
 
-.section {
+/*.section {
   border: 1px solid #000;
   margin: 10px 0;
   padding: 10px;
