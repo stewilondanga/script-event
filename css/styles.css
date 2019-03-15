@@ -1,3 +1,8 @@
+body {
+  font-family: Verdana;
+  font-size: 12px;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,10 +26,6 @@
   height: 1.5em;
 }
 
-body {
-  font-family: Verdana;
-  font-size: 12px;
-}
 
 #box {
   width: 100px;
