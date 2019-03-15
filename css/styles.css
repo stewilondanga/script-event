@@ -25,12 +25,11 @@ body {
   background-color: green;
 }
 
-/*
 .rotatedBox {
   transform: rotate(45deg);
 }
 
-#secretBox {
+/*#secretBox {
   width: 100px;
   height: 100px;
   margin: 40px;
