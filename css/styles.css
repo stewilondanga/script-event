@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,52 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+body {
+  font-family: Verdana;
+  font-size: 12px;
+}
+
+#box {
+  width: 100px;
+  height: 100px;
+  margin: 40px;
+  background-color: green;
+}
+
+.rotatedBox {
+  transform: rotate(45deg);
+}
+
+#secretBox {
+  width: 100px;
+  height: 100px;
+  margin: 40px;
+  background-color: red;
+  cursor: pointer;
+}
+
+.intro {
+  border: 1px solid #000;
+  background-color: #FFED4B;
+  color: #000;
+  padding: 10px;
+}
+
+.section {
+  border: 1px solid #000;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.keycode {
+  margin: 20px 0;
+}
+
+#getKeyCode {
+  color: red;
+  font-weight: bold;
 }
 
 .containers {
