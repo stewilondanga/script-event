@@ -6,3 +6,21 @@ var navigate = (function() {
 		$('.' + dataName).toggle();
 	});
 })();
+function changeFruit() {
+  var selectedFruit = document.getElementById("myFruit").value;
+  document.getElementById("selectedFruit").innerHTML = selectedFruit;
+}
+
+function clickButton() {
+  document.getElementById('box').classList.toggle('rotatedBox');
+}
+
+function showSecretMessage() {
+  alert('I am the secret message');
+}
+
+function getKeyCode(e) {
+
+  document.getElementById("getKeyCode").innerHTML = e.keyCode+" ";
+
+}
