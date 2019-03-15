@@ -29,7 +29,7 @@ body {
   transform: rotate(45deg);
 }
 
-/*#secretBox {
+#secretBox {
   width: 100px;
   height: 100px;
   margin: 40px;
@@ -37,7 +37,7 @@ body {
   cursor: pointer;
 }
 
-.intro {
+/*.intro {
   border: 1px solid #000;
   background-color: #FFED4B;
   color: #000;
