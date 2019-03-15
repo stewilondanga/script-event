@@ -6,12 +6,13 @@ var navigate = (function() {
     $('.' + dataName).toggle();
   });
 })();
-/*function changeFruit() {
+
+function changeFruit() {
   var selectedFruit = document.getElementById("myFruit").value;
   document.getElementById("selectedFruit").innerHTML = selectedFruit;
 }
 
-function clickButton() {
+/*function clickButton() {
   document.getElementById('box').classList.toggle('rotatedBox');
 }
 
