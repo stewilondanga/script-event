@@ -12,11 +12,11 @@ function changeFruit() {
   document.getElementById("selectedFruit").innerHTML = selectedFruit;
 }
 
-/*function clickButton() {
+function clickButton() {
   document.getElementById('box').classList.toggle('rotatedBox');
 }
 
-function showSecretMessage() {
+/*function showSecretMessage() {
   alert('I am the secret message');
 }
 
